@@ -3,13 +3,13 @@ Elite CommandAR iOS SDK
 
 The EliteCommandAR iOS SDK lets you receive button presses from your [Elite CommandAR pistol](http://appgear.com/en/games/elite-commandar) on devices running iOS 5.0 and above. 
 
-Documentation of the SDK is available here: http://www.wowweelabs.com/ecar/iOS/docs/index.html
+Documentation of the SDK is available here: http://www.wowweelabs.com/SDKs/ECAR/iOS/index.html
 
-Support is available at the RoboCommunity forums: http://www.robocommunity.com/
+Support is available at the RoboCommunity forums: http://www.robocommunity.com
 
-For Android or Unity SDKs visit: http://www.wowweelabs.com/
+For Android or Unity SDKs visit: http://www.wowweelabs.com
 
-For information on WowWee products visit: http://www.wowwee.com/
+For information on WowWee products visit: http://www.wowwee.com
 
 Getting Started
 ---------------------------------------
